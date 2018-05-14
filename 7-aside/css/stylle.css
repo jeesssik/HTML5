@@ -1,0 +1,119 @@
+/*body{
+	background-color: red;
+}
+
+/* estilo header*/
+header{
+	height: 81px;
+}
+
+#logo{
+	height: 87%;
+	float: left;
+}
+
+#key{
+	float: right;
+	font-size: 30px;
+
+}
+
+/*fin estilo header*/
+
+/*estilo nav*/
+
+nav{
+	background-color: #564141;
+	margin: 0px -8px;
+	padding: 8px 20px;
+
+}
+
+/*fin de estilo de nav*/
+
+nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	padding-left: 22px;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+}
+
+/*fin estio nav*/
+
+/*Inicio ubicación de aside y main*/
+
+		aside{
+			width: 17%;
+			float: left;
+			background-color: #f1f1f1;
+			text-align: center;
+			font-family: 'Lato', sans-serif;
+			margin-top: 10px;
+		}
+
+		main{
+			width: 82%;
+			float: right;
+		}
+
+		aside h1{
+			text-transform: uppercase;
+			font-weight: normal;
+		}
+
+
+		aside ul{
+			list-style: none;
+			margin:0;
+			padding: 0;
+			width: 100%;
+			line-height: 30px;
+			text-align: center;
+		}
+
+		aside a{
+			text-decoration: none;
+			color: black;
+		}
+
+
+/*Fin ubicación de aside y main*/
+
+
+
+section{
+	background-color: rgb(241,241,241);
+	margin: auto auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	box-shadow: rgba(0,0,0,0.15) 2px 2px;
+	padding: 10px;
+
+}
+
+article{
+	padding: 1px 20px;
+	background-color: white;
+	
+}
+
+
+
+/*propiedades de pie de pag*/
+
+
+footer{
+	background-color: #f1f1f1;
+	clear: both;
+	position: relative;
+	z-index: 10;
+	height: 4em;
+	margin-top: 3em;
+
+}
+
+footer p{
+	padding:10px;
+}

@@ -1,0 +1,54 @@
+
+/* estilo header*/
+header{
+	height: 81px;
+}
+
+#logo{
+	height: 87%;
+	float: left;
+}
+
+#key{
+	float: right;
+	font-size: 30px;
+
+}
+
+/*fin estilo header*/
+
+/*estilo nav*/
+
+nav{
+	background-color: #564141;
+	margin: 0px -8px;
+	padding: 8px 20px;
+
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	padding-left: 22px;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+}
+
+/*fin estio nav*/
+
+section{
+	background-color: rgb(241,241,241);
+	margin: auto auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	box-shadow: rgba(0,0,0,0.15) 2px 2px;
+	padding: 10px;
+
+}
+
+article{
+	padding: 1px 20px;
+	background-color: white;
+	
+}

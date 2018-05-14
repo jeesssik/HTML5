@@ -1,0 +1,15 @@
+header{
+	height: 81px;
+}
+
+#logo{
+	height: 87%;
+	float: left;
+}
+
+#key{
+	float: right;
+	font-size: 30px;
+
+
+}
